@@ -1,0 +1,71 @@
+/*
+  Grey: 2C2D34
+  Orange: FA8A28
+  Red: FF2828
+*/
+
+div.gl-review {
+  width: 100%;
+  overflow: auto;
+  background-color: #2C2D34;
+  border: 3px solid #FF2828;
+  margin-top: 30px;
+  border-radius: 15px 15px 15px 15px;
+}
+div.glr-left {
+  float: left;
+  width: 50%;
+  height: 100%;
+  background-color: inherit;
+}
+div.glr-score {
+  color: #FA8A28;
+  text-align: center;
+  font-family: "ff-din-round-web-pro",sans-serif;
+  font-size: 72px;
+  line-height: 72px;
+  font-weight: bolder;
+  padding-top: 15px;
+  padding-left: 45px;
+}
+div.glr-summary {
+  color: #777;
+  text-align: center;
+  font-family: "ff-din-round-web-pro",sans-serif;
+  font-weight: bold;
+  padding-bottom: 15px;
+  padding-left: 45px;
+}
+div.glr-right {
+  float: right;
+  width: 50%;
+  height: 100%;
+  background-color: inherit;
+}
+div.glr-proscons {
+  color: #FFF;
+  font-family: "ff-din-round-web-pro",sans-serif;
+  font-weight: bold;
+  padding-top: 30px;
+  padding-left: 60px;
+}
+ul.glr-pros {
+
+}
+li.glr-pro {
+  list-style: none;
+}
+li.glr-pro:before {
+  content: "+";
+  margin-right: 4px;
+}
+ul.glr-cons {
+
+}
+li.glr-con {
+  list-style: none;
+}
+li.glr-con:before {
+  content: "-";
+  margin-right: 4px;
+}
