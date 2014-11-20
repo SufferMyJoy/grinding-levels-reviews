@@ -1,4 +1,4 @@
-DobsonDev Shortcodes
+Grinding Levels Reviews
 ====================
 
 A collection of helpful shortcodes for use with WordPress sites.
