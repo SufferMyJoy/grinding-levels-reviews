@@ -1,7 +1,7 @@
 Grinding Levels Reviews
 ====================
 
-A collection of helpful shortcodes for use with WordPress sites.
+A shortcode that allows you to post a review at the bottom of a post or page.
 
 Copyright 2014  Alex Dobson  (email : [alex@dobsondev.com](mailto:alex@dobsondev.com))
 
